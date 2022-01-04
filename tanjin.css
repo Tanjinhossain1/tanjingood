@@ -1,0 +1,19 @@
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+
+#color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.display-flex{
+    padding-left: 100px;
+    width: 50%;
+}
+
