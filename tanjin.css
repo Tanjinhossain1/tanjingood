@@ -1,0 +1,21 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Cormorant Garamond', serif;
+font-family: 'Open Sans', sans-serif;
+}
+.img{
+    width: 700px;
+    display: flex;
+}
+.flex{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 500px;
+}
+.color{
+    color: orange;
+    font-size: 50px;
+}
+h1{
+    font-size: 60px;
+}
