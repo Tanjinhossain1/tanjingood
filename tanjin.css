@@ -1,19 +1,88 @@
 
+    
+
 h1{
-    font-size: 50px;
+    font-size: 70px;
 }
 h2{
-    font-size: 40px;
+    font-size: 50px;
 }
 
 #color{
     color: orange;
 }
-section{
-    display: flex;
+.need{
+    background-image: url(image/tuku.png);
+    background-repeat: no-repeat;
+    margin: 0%;
+    margin-bottom: 150px;
+    
 }
 .display-flex{
     padding-left: 100px;
-    width: 50%;
+    width: 50%; 
 }
+.hire-me{
+    text-decoration: none;
+    background-image:linear-gradient(tomato,orange);
+    margin: 10px;
+    font-weight: 700px;
+    padding: 10px 40px;
+    
+}
+.display{
+    display: flex;
+}
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.man{
+    padding: 100px;
+}
+.lost{
+    padding: 100px;
+}
+.back{
+    background-image: url(image/hu.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.moon{
+    padding: 100px;
+}
+#border{
+    box-shadow: 8px 10px 10px 5px;
+    width: 70%;
+    padding: 50px;
+    height: 300px;
+    margin-left: 150px;
+    margin-right: 100px;
+    border-image: linear-gradient(orange,blue);
+    border-image-slice: 1;
+    border-left: 6px solid ;
+    border-radius: 7px;
+    border-right: 8px solid red;
+    box-shadow: 15px 10px 40px rgb(255, 196, 0);
+    border-top: rgb(255, 196, 0);
+}
+.noon{
+    box-shadow: 8px 10px 10px 5px;
+    width: 80%;
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-image: linear-gradient(red,yellow,orange);
+    border-image-slice: 1;
+    border-right: 6px solid ;
+    box-shadow: 15px 10px 40px rgb(233, 64, 22);
+    border-left: 6px solid;
 
+}
+.lasti{
+    background-image: url(image/Untitled.j[g.png);
+    background-repeat: no-repeat;
+}
+#small{
+    text-align: center;
+}
